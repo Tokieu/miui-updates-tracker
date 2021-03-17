@@ -1,7 +1,7 @@
-android: '9.0'
+android: '11.0'
 codename: ginkgo
 device: Redmi Note 8 China
-download: https://bigota.d.miui.com/V11.0.7.0.PCOCNXM/miui_GINKGO_V11.0.7.0.PCOCNXM_103aa0209f_9.0.zip
-filename: miui_GINKGO_V11.0.7.0.PCOCNXM_103aa0209f_9.0.zip
-size: 2.2 GB
-version: V11.0.7.0.PCOCNXM
+download: https://bigota.d.miui.com/21.3.10/miui_GINKGO_21.3.10_133231280e_11.0.zip
+filename: miui_GINKGO_21.3.10_133231280e_11.0.zip
+size: 2.8 GBc
+version: 21.3.10
